@@ -1,0 +1,6 @@
+.env
+*.env
+!.env.example
+rhconnect-backend/target/
+rhconnect-frontend/node_modules/
+rhconnect-frontend/.next/
